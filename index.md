@@ -680,9 +680,6 @@ plt.show()
 ```
 
 
-![png](output_60_0.png)
-
-
 
 ```python
 #Above we can see Elbow curve occuring at cluster, K=6
